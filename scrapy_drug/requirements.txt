@@ -1,0 +1,4 @@
+mysql-connector-python==8.0.32
+mysqlclient==2.1.0
+Scrapy==2.8.0
+Twisted==22.10.0
